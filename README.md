@@ -14,3 +14,4 @@ vlc mod+f6
 virtualbox mod+F6
 thunar mod+shift+enter mod+F8 mod+Shift+KP_Enter
 xfce4-screenshoter control+print
+rofi bar
